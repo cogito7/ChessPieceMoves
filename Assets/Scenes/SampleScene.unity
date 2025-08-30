@@ -340,14 +340,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc8c2ae1bec82d646813683fc82b3a91, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pieceType: 5
+  pieceType: 4
   colorTint: {r: 0.125534, g: 0.8584906, b: 0.32197765, a: 1}
   pawn: {fileID: 21300000, guid: 638d5e5a344823544a959f03b8e50644, type: 3}
   knight: {fileID: 21300000, guid: 83a13b582727d324ca97e0a06d27338e, type: 3}
   rook: {fileID: 21300000, guid: 562e84418828b8e4faf60172ad91a0ea, type: 3}
   bishop: {fileID: 21300000, guid: 5786abf88f464aa44b64cd1bc2d2b904, type: 3}
-  queen: {fileID: 21300000, guid: b18eefc50d294e246820004cdea9598f, type: 3}
-  king: {fileID: 21300000, guid: 805fc4ff8e9cb024d91afb521ab252e4, type: 3}
+  queen: {fileID: 21300000, guid: 805fc4ff8e9cb024d91afb521ab252e4, type: 3}
+  king: {fileID: 21300000, guid: b18eefc50d294e246820004cdea9598f, type: 3}
 --- !u!4 &388517271
 Transform:
   m_ObjectHideFlags: 0
